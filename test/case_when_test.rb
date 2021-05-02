@@ -1,4 +1,10 @@
+require 'simplecov'
+SimpleCov.start do
+  enable_coverage :branch
+end
+
 require_relative '../lib/case_when'
+
 require 'set'
 require 'minitest/autorun'
 require 'mutant/minitest/coverage'
