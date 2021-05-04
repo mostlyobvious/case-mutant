@@ -28,7 +28,7 @@ GEM
 GEM
   remote: https://oss:7AXfeZdAfCqL1PvHm2nvDJO6Zd9UW8IK@gem.mutant.dev/
   specs:
-    mutant-license (0.1.1.2.1627430819213747598431630701693729869473.0)
+    mutant-license (0.1.1.2.1627430819213747598431630701693729869473.1)
 
 PLATFORMS
   arm64-darwin-20
