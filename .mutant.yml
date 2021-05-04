@@ -1,0 +1,10 @@
+# https://github.com/mbj/mutant/blob/master/docs/configuration.md
+
+requires:
+- case_when
+includes:
+- lib
+integration: minitest
+matcher:
+  subjects:
+  - CaseWhen
